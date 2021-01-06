@@ -1,0 +1,2268 @@
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 10.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: False
+
+reward: 0.0
+done: True
